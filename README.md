@@ -50,4 +50,10 @@ sudo systemctl enable teleport
 sudo systemctl start teleport
 ```
 
-your teleport should new be visible on [tele.paras.cloud]()
+your teleport should new be visible on [tele.paras.cloud](https://tele.paras.cloud)
+## Adding a new node for ssh via teleport
+go to teleport admin page and add a new node, it will provice you the command to add new node
+
+happy sshing 
+## Adding a new application on teleport
+refer this [link](https://goteleport.com/docs/application-access/getting-started/#step-13-start-grafana) for the steps to add a new application. 
